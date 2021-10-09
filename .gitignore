@@ -10,6 +10,10 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
+#datasets zips
+
+datasets/zips/
+
 # IPython
 profile_default/
 ipython_config.py
