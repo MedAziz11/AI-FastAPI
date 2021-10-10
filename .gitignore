@@ -13,6 +13,7 @@
 #datasets zips
 
 datasets/zips/
+models/
 
 # IPython
 profile_default/
